@@ -26,7 +26,9 @@ Developed using SwiftUI, SwiftData, and AVFoundation, designed for iPhones runni
 
 ## Installation
 Option 1: Clone the repository
+```
 git clone https://github.com/jamesduong03/Calorie-Estimation-App-UI-UX-.git
+```
 
 Option 2: Download the ZIP file
 1. Click the Code button, then select Download ZIP.
