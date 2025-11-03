@@ -26,6 +26,7 @@ Developed using SwiftUI, SwiftData, and AVFoundation, designed for iPhones runni
 
 ## Installation
 Option 1: Clone the repository
+
 Option 2: Download the ZIP file
 1. Click the Code button, then select Download ZIP.
 2. Unzip the file and open the extracted folder in Finder.
